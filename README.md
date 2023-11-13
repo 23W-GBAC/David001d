@@ -1,5 +1,5 @@
 # Advancing Health with Nano Technology
-![Tux, the Linux mascot](Nanotechnology.jpeg
+![Tux, the Linux mascot](Nanotechnology.jpeg)
 My name is David, and I'm here to showcase the remarkable technological advancements in healthcare. follow my blog!
 Nano technology is a rapidly advancing field that holds great promise for revolutionizing various industries, including healthcare. At its core, nano technology involves manipulating matter at the nanoscale, which is on the order of billionths of a meter. This level of precision allows scientists and researchers to create materials and devices with unique properties and capabilities.
 
