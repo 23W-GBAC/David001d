@@ -7,6 +7,7 @@ My name is David, and I'm here to showcase the remarkable technological advancem
 Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi, and parasites no longer respond to antimicrobial medicines. 
 
 ![Tux, the Linux mascot](Microbial.jpeg)
+
 Artificial Intelligence (AI) is revolutionizing various fields, and its application in the realm of antimicrobial research and management holds immense promise. In this comprehensive exploration, we delve into the multifaceted ways in which AI can play a pivotal role in the fight against microbial threats, ranging from drug discovery to treatment optimization and epidemiological surveillance.
 
 1. _Drug Discovery and Development_:
@@ -44,9 +45,9 @@ AI, specifically Natural Language Processing (NLP), is transforming the way rese
 In the field of antimicrobial research, this capability is particularly beneficial for staying abreast of the latest developments. Researchers can efficiently review a multitude of scientific articles, identify emerging trends, and integrate new knowledge into their work. The speed and accuracy of NLP-driven literature reviews enhance the efficiency of the research process.
 In conclusion, the integration of AI into antimicrobial research and management is reshaping the landscape of infectious disease control. From drug discovery to treatment optimization and epidemiological surveillance, AI offers a diverse set of tools that enhance the effectiveness and efficiency of antimicrobial efforts. The synergy between advanced technology and the complex challenges posed by microbial threats holds great promise for the future of global health. As we navigate the dynamic landscape of infectious diseases, AI stands as a powerful ally in the ongoing battle against microbial adversaries
 
-*source : chatgpt and cdc
+source : chatgpt and cdc
 
-![Tux, the Linux mascot]()
+![Tux, the Linux mascot](earth.gif)
 
 
  
