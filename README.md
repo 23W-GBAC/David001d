@@ -1,5 +1,5 @@
 # **Transformative Role of Artificial Intelligence in Antimicrobial Research and Management.**
-![Tux, the Linux mascot](Nanotechnology.jpeg)
+![Tux, the Linux mascot]()
 
 My name is David, and I'm here to showcase the remarkable technological advancements in healthcare. follow my blog!
 
