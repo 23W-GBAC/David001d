@@ -2,12 +2,13 @@
 ![Tux, the Linux mascot](robot.gif)
 
 My name is David, and I'm here to showcase the remarkable technological advancements in healthcare. follow my blog!
-
+***
 **What is Antimicrobial resistance?
 Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi, and parasites no longer respond to antimicrobial medicines. 
 
 ![Tux, the Linux mascot](Microbial.jpeg)
 
+***
 Artificial Intelligence (AI) is revolutionizing various fields, and its application in the realm of antimicrobial research and management holds immense promise. In this comprehensive exploration, we delve into the multifaceted ways in which AI can play a pivotal role in the fight against microbial threats, ranging from drug discovery to treatment optimization and epidemiological surveillance.
 
 1. _Drug Discovery and Development_:
