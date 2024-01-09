@@ -210,8 +210,11 @@ in summary or the cardinal view of the whole thing is  A Paradigm Shift in Antim
 The use of nanoparticles to combat antibiotic-resistant bacteria marks a paradigm shift in antimicrobial strategies. This nanotechnology-driven approach holds immense potential for revolutionizing the field of medicine, off
 ---
 
-
- [Automation Blog] [Automation.md]
+-----
+ [Automation Blog]
+ -----
+ 
+![Tux, Automation.md]
  
 
 source : chatgpt and cdc
