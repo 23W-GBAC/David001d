@@ -95,8 +95,7 @@ target = pd.read_csv(url, header=0)
 sse = sum((dataset['x1'] - target['y']) ** 2)
 print('SSE:', sse)
 
-[Automation.md]
-
+ 
 
 
 
