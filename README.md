@@ -211,12 +211,10 @@ The use of nanoparticles to combat antibiotic-resistant bacteria marks a paradig
 ---
 
 -----
- [Automation Blog]
- -----
- 
- 
- 
+ ## [Automation Blog](Automation.md)
 
+
+ 
 source : chatgpt and cdc
 
 ![Tux, the Linux mascot](earth.gif)
