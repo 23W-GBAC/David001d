@@ -39,6 +39,7 @@ week 2
 # generate_blog_post.py
 
 import nbformat
+
 from nbconvert import MarkdownExporter
 from jinja2 import Environment, FileSystemLoader
 import datetime
