@@ -12,7 +12,7 @@ Task
 Solution 
 ----------
 
--  by using datasets of molecular-like structures statistical task using sum of squared errors
+-  by using datasets of molecular-like structures statistical task using sum of squared errors.
 
 step 1 -  Loading Datasets :
 
