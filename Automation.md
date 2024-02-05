@@ -2,7 +2,7 @@ Task And Solutions
 -------
 Week 1 
 -----
-When i began my reasearch on Artificial Intelligence and it's application in the antimicrobial i had cardinal questions which became a task, i also delve deep to provide a solution check it out below.
+When I began my research on Artificial Intelligence and it's application in the antimicrobial I had cardinal questions which became a task, I also delved deep to provide a solution. Check it out below.
 
 Task
 -------
