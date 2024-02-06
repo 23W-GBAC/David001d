@@ -68,6 +68,12 @@ For our solution , we'll only use the features x1, x2, x3, and x4.
 week 2
 --------
 
+Task
+-------
+- [x] how to generate blog post using Py. 
+--------
+
+
 # generate_blog_post.py
 ```
 import nbformat
