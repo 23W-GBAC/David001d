@@ -294,18 +294,21 @@ main_sections = [
 
 # Dictionary of possible subtopics for each main section
 subtopics = {
-    "Introduction to Drug Delivery Systems": [
+
+"Introduction to Drug Delivery Systems": [
         "Definition of Drug Delivery Systems",
         "Importance of Targeted Drug Delivery",
         "Overview of Precision Medicine"
     ],
-    "Nanoparticles as Drug Carriers": [
+
+"Nanoparticles as Drug Carriers": [
         "Properties of Nanoparticles",
         "Synthesis Methods",
         "Biocompatibility and Safety",
         "Drug Loading and Release Mechanisms"
     ],
-    "Types of Drug Delivery Systems": [
+
+"Types of Drug Delivery Systems": [
         "Liposomal Formulations",
         "Polymeric Nanoparticles",
         "Micellar Nanoparticles",
@@ -313,14 +316,16 @@ subtopics = {
         "Nanocrystals",
         "Implantable Drug Delivery Systems"
     ],
-    "Applications in Precision Medicine": [
+
+"Applications in Precision Medicine": [
         "Cancer Therapy",
         "Infectious Diseases",
         "Chronic Conditions",
         "Personalized Medicine Approaches",
         "Targeted Therapies"
     ],
-    "Challenges and Future Directions": [
+
+"Challenges and Future Directions": [
         "Scalability and Manufacturing Consistency",
         "Regulatory Approval",
         "Interdisciplinary Collaboration",
@@ -328,7 +333,8 @@ subtopics = {
         "Biomimetic Drug Delivery Systems",
         "Emerging Technologies"
     ],
-    "Conclusion": [
+
+"Conclusion": [
         "Summary of Key Points",
         "Future Outlook for Drug Delivery Systems",
         "Impact on Healthcare and Patient Outcomes",
