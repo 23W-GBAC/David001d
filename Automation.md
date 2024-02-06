@@ -148,7 +148,7 @@ import random
 topic = "Transformative Role of Artificial Intelligence in Antimicrobial Research and Management"
 
 # Define key problems related to the topic
-problems = [
+problems = 
     "Limited drug discovery capabilities for combating antimicrobial resistance",
     "Inaccurate prediction of antimicrobial resistance patterns",
     "Challenges in personalizing antimicrobial treatment plans",
@@ -158,7 +158,7 @@ problems = [
 ]
 
 # Define corresponding solutions to the problems
-solutions = [
+solutions = 
     "Utilizing AI algorithms to analyze large datasets and identify potential drug candidates",
     "Developing machine learning models to predict antimicrobial resistance with higher accuracy",
     "Implementing precision medicine approaches based on AI-driven patient data analysis",
@@ -274,7 +274,7 @@ with open("blog_post.html", "w") as f:
 import random
 
 # List of possible introductory statements
-intro_statements = [
+intro_statements = 
     "Welcome to our comprehensive exploration of drug delivery systems and precision medicine!",
     "Join us on a journey through the fascinating world of precision medicine and targeted drug delivery.",
     "Get ready to delve deep into the intersection of nanotechnology and healthcare with our in-depth analysis of drug delivery systems.",
@@ -283,7 +283,7 @@ intro_statements = [
 ]
 
 # List of possible main content sections
-main_sections = [
+main_sections = 
     "Introduction to Drug Delivery Systems",
     "Nanoparticles as Drug Carriers",
     "Types of Drug Delivery Systems",
@@ -295,20 +295,20 @@ main_sections = [
 # Dictionary of possible subtopics for each main section
 subtopics = {
 
-"Introduction to Drug Delivery Systems": [
+"Introduction to Drug Delivery Systems": 
         "Definition of Drug Delivery Systems",
         "Importance of Targeted Drug Delivery",
         "Overview of Precision Medicine"
     ],
 
-"Nanoparticles as Drug Carriers": [
+"Nanoparticles as Drug Carriers": 
         "Properties of Nanoparticles",
         "Synthesis Methods",
         "Biocompatibility and Safety",
         "Drug Loading and Release Mechanisms"
     ],
 
-"Types of Drug Delivery Systems": [
+"Types of Drug Delivery Systems": 
         "Liposomal Formulations",
         "Polymeric Nanoparticles",
         "Micellar Nanoparticles",
@@ -317,7 +317,7 @@ subtopics = {
         "Implantable Drug Delivery Systems"
     ],
 
-"Applications in Precision Medicine": [
+"Applications in Precision Medicine": 
         "Cancer Therapy",
         "Infectious Diseases",
         "Chronic Conditions",
@@ -325,7 +325,7 @@ subtopics = {
         "Targeted Therapies"
     ],
 
-"Challenges and Future Directions": [
+"Challenges and Future Directions": 
         "Scalability and Manufacturing Consistency",
         "Regulatory Approval",
         "Interdisciplinary Collaboration",
@@ -334,7 +334,7 @@ subtopics = {
         "Emerging Technologies"
     ],
 
-"Conclusion": [
+"Finally": 
         "Summary of Key Points",
         "Future Outlook for Drug Delivery Systems",
         "Impact on Healthcare and Patient Outcomes",
@@ -344,7 +344,7 @@ subtopics = {
 
 # Function to generate content for each subtopic
 def generate_subtopic_content(subtopic):
-    content = [
+    content = 
         f"**{subtopic}**\n\n",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
         "Phasellus euismod vestibulum lectus. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis.",
